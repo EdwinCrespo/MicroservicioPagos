@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'MicroservicioPagos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9422ACE0235141B4A0392DABBCA832C7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FE10CD13C2147A999BC8A2CA18535E4 }}
           package: '*.jar'
